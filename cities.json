@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "population": "20,961,472",
+    "description": "Mumbai, the financial capital of India, is known for its vibrant lifestyle, iconic landmarks, and Bollywood film industry.",
+    "mainImage": "http://t2.gstatic.com/images?q=tbn:ANd9GcRXcaenGAJqaHCy1U7JwYjxTgB9aZgx_tSEXTPtDR3wOePbqS43--HkwltTp96QxvFT1uC0",
+    "landmarks": ["Gateway of India", "Marine Drive", "Elephanta Caves"],
+    "famousFor": ["Bollywood", "Street food", "Beaches"],
+    "averageTemperature": {
+      "summer": "32°C",
+      "winter": "18°C"
+    }
+  },
+  {
+    "name": "Delhi",
+    "state": "Delhi",
+    "population": "19,178,391",
+    "description": "Delhi, the capital city of India, blends ancient history with modernity, and is home to some of the country's most iconic monuments.",
+    "mainImage": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRDp-j0BGOs39QxiNa7aMrb4cYgec25381kBtLfUa_F28NEcwxqI5j6Gn5wEj0Bfh-o",
+    "landmarks": ["Red Fort", "India Gate", "Qutub Minar"],
+    "famousFor": ["Historical sites", "Street markets", "Food culture"],
+    "averageTemperature": {
+      "summer": "40°C",
+      "winter": "8°C"
+    }
+  },
+  {
+    "name": "Bengaluru",
+    "state": "Karnataka",
+    "population": "12,764,935",
+    "description": "Bengaluru, known as the Silicon Valley of India, is the center of India's tech industry and offers a pleasant climate year-round.",
+    "mainImage": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTPH7RW8RJlNbIXAzMPUJaxh9Pz_ihXHoJovmMmLshwn9Z-T4_jfnWJRwrKzwv7y_WZ",
+    "landmarks": [
+      "Lalbagh Botanical Garden",
+      "Bangalore Palace",
+      "Vidhana Soudha"
+    ],
+    "famousFor": ["IT hub", "Parks", "Startup culture"],
+    "averageTemperature": {
+      "summer": "33°C",
+      "winter": "15°C"
+    }
+  },
+  {
+    "name": "Kolkata",
+    "state": "West Bengal",
+    "population": "14,850,066",
+    "description": "Kolkata, the cultural capital of India, is known for its colonial architecture, art galleries, and festivals, especially Durga Puja.",
+    "mainImage": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQ1qUj2oQOKEveaIErpQLW_3GpHHvjkVumt1uoHUIxGaqKdINfVV9wDELdpM59qdB1m",
+    "landmarks": [
+      "Victoria Memorial",
+      "Howrah Bridge",
+      "Dakshineswar Kali Temple"
+    ],
+    "famousFor": ["Culture", "Literature", "Durga Puja"],
+    "averageTemperature": {
+      "summer": "38°C",
+      "winter": "12°C"
+    }
+  },
+  {
+    "name": "Chennai",
+    "state": "Tamil Nadu",
+    "population": "11,503,293",
+    "description": "Chennai, a major cultural, economic, and educational center, is known for its Dravidian architecture and Marina Beach, the longest urban beach in India.",
+    "mainImage": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRSup6s7oKAbrwqFKv-leDl7HQh_37XabxbkxSfb5tL4Bootp-ioQU83YZKhj7iD3ki",
+    "landmarks": ["Marina Beach", "Kapaleeshwarar Temple", "Fort St. George"],
+    "famousFor": ["Temples", "Music and Dance", "Textiles"],
+    "averageTemperature": {
+      "summer": "40°C",
+      "winter": "20°C"
+    }
+  },
+  {
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "population": "10,004,144",
+    "description": "Hyderabad, the city of pearls, is renowned for its historical landmarks and as a thriving IT hub with a blend of modernity and tradition.",
+    "mainImage": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRp5R_NI-3-HYsykq5H-oO3xNi0ZjiFklLZIw_4TD_CJ70I4Ofk8NwHBaQFmP-ExELd",
+    "landmarks": ["Charminar", "Golconda Fort", "Ramoji Film City"],
+    "famousFor": ["Biryani", "Pearls", "IT industry"],
+    "averageTemperature": {
+      "summer": "39°C",
+      "winter": "15°C"
+    }
+  },
+  {
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "population": "4,726,000",
+    "description": "Jaipur, the Pink City, is known for its royal palaces, vibrant bazaars, and rich cultural heritage, forming a part of India's Golden Triangle tourism circuit.",
+    "mainImage": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTKsqvJf0KCroqL9NNRIue1bb7hGp9o7ZVAWs4yf-qvo3CzffgRGMYCgjqhwsRn-BrJ",
+    "landmarks": ["Hawa Mahal", "Amber Fort", "City Palace"],
+    "famousFor": ["Palaces", "Jewelry", "Handicrafts"],
+    "averageTemperature": {
+      "summer": "42°C",
+      "winter": "8°C"
+    }
+  },
+  {
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "population": "8,253,000",
+    "description": "Ahmedabad, a vibrant city in Gujarat, is known for its blend of modern and traditional values, historic monuments, and a thriving textile industry.",
+    "mainImage": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTEJg2KzEh5-5ZBr15WqpwdqyakYfO1HGzW7xNL-Z_t6uMmuqLIES8EsHGqONewKDUw",
+    "landmarks": ["Sabarmati Ashram", "Adalaj Stepwell", "Sidi Saiyyed Mosque"],
+    "famousFor": ["Textiles", "Gandhian heritage", "Street food"],
+    "averageTemperature": {
+      "summer": "43°C",
+      "winter": "13°C"
+    }
+  },
+  {
+    "name": "Thiruvananthapuram",
+    "state": "Kerala",
+    "population": "957,730",
+    "description": "Thiruvananthapuram, the capital of Kerala, is known for its beautiful beaches, hill stations, and rich cultural and religious heritage.",
+    "mainImage": "https://images.cnbctv18.com/wp-content/uploads/2023/02/Thiruvananthapuram-1024x576.jpg",
+    "landmarks": ["Padmanabhaswamy Temple", "Kovalam Beach", "Napier Museum"],
+    "famousFor": ["Beaches", "Temples", "Ayurveda"],
+    "averageTemperature": {
+      "summer": "34°C",
+      "winter": "20°C"
+    }
+  }
+]
